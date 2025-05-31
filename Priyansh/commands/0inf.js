@@ -32,7 +32,7 @@ var callback = () => api.sendMessage({body:`🌹𝙰𝙳𝙼𝙸𝙽 𝙰𝙽�
 
 ☄️𝗕𝗢𝗧 𝗡𝗔𝗠𝗘☄️ ⚔ ${global.config.BOTNAME} ⚔
 
-🔥𝗢𝗪𝗡𝗘𝗥 🔥☞︎︎︎ 𝙁𝘼𝙃𝙄𝙈 ⚡ \n\n
+🔥𝗢𝗪𝗡𝗘𝗥 🔥☞︎︎︎ ᎮᏝᏗᎩ ᏰᎧᎩ ⚡ \n\n
 🙈🄾🅆🄽🄴🅁 🄲🄾🄽🅃🄰🄲🅃 🄻🄸🄽🄺🅂🙈➪ \n\n  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 🧨https://www.facebook.com/hackar.vaiya 💞🕊️
   \n 
 ✅𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘👉 @𝙁𝘼𝙃𝙄𝙈 ⚡💥 \n\n  ====𝗧𝗼 𝗹𝗲𝗮𝗿𝗻 𝗛𝗼𝘄 𝘁𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗔 𝗯𝗼𝘁 === 𝗩𝗶𝘀𝗶𝘁 𝗔𝗻𝗱 𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝗧𝗼 𝗠𝘆 𝗖𝗵𝗮𝗻𝗻𝗲𝗹✅ 🗡 https://www.youtube.com/@𝙁𝘼𝙃𝙄𝙈 ⚡💥
